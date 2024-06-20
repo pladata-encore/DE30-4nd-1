@@ -1,4 +1,7 @@
 # TalentTree
+## CI/CD Architecture
+![Untitled (3)](https://github.com/nayoung16/portfolio/assets/102905115/e4d3bce7-1820-4a19-a75b-1232cee3e0a0)
+## Description
 ![1](https://github.com/nayoung16/portfolio/assets/102905115/6fd86114-22de-4aa2-b9ff-f5b4744c7065)
 ![2](https://github.com/nayoung16/portfolio/assets/102905115/299445f8-15b1-4f2a-a5e1-aa8cf5cea606)
 ![3](https://github.com/nayoung16/portfolio/assets/102905115/9c65abe9-37c4-4dca-848a-ffd7c35b55c1)
