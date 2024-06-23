@@ -1,8 +1,6 @@
 # TalentTree
 ## CI/CD Architecture
 ![Untitled (3)](https://github.com/nayoung16/portfolio/assets/102905115/e4d3bce7-1820-4a19-a75b-1232cee3e0a0)
-## CI/CD 상세 진행 과정
-https://nymagicshop16.tistory.com/112
 ## Description
 ![1](https://github.com/nayoung16/portfolio/assets/102905115/6fd86114-22de-4aa2-b9ff-f5b4744c7065)
 ![2](https://github.com/nayoung16/portfolio/assets/102905115/299445f8-15b1-4f2a-a5e1-aa8cf5cea606)
